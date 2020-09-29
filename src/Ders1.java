@@ -6,6 +6,7 @@ public class Ders1 {
 		System.out.println("Saat 17:52");
 		System.out.println("Saat 18:46");
 		System.out.println("Saat 19:17 - iskender");
+		System.out.println("Saat 19:24 - hamza");
 		
 	}
 
