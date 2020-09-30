@@ -10,7 +10,6 @@ public class Ders1 {
 		System.out.println("Saat 18:05 - feature branch 1. satır");
 		System.out.println("Saat 18:12 - feature branch 2. satır");
 
-
 		
 	}
 
