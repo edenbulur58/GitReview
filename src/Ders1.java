@@ -7,6 +7,8 @@ public class Ders1 {
 		System.out.println("Saat 18:46");
 		System.out.println("Saat 19:17 - iskender");
 		System.out.println("Saat 19:28 - hamza conflict");
+		System.out.println("Saat 18:05 - feature branch 1. satır");
+		System.out.println("Saat 18:12 - feature branch 2. satır");
 
 		
 	}
